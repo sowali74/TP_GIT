@@ -1,0 +1,2 @@
+J'ai fait des études en informatique jusqu'au dess.
+J'ai travail en tant qu'Administrateur des Systèmes Unix et Linux, ensuite qu'en tant qu'Administrateur des sauvegardes sous Networker et aussi en tant Ingénieur de production sous unix\linux.
